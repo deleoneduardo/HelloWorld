@@ -21,6 +21,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+[Imgur](https://imgur.com/a/eVOTW5e)
 
 ## Notes
 
